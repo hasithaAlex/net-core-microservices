@@ -1,0 +1,12 @@
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Activities\bin\Debug\netcoreapp2.0\Acced.Art360.Services.Activities.deps.json
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Activities\bin\Debug\netcoreapp2.0\Acced.Art360.Services.Activities.runtimeconfig.json
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Activities\bin\Debug\netcoreapp2.0\Acced.Art360.Services.Activities.runtimeconfig.dev.json
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Activities\bin\Debug\netcoreapp2.0\Acced.Art360.Services.Activities.dll
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Activities\bin\Debug\netcoreapp2.0\Acced.Art360.Services.Activities.pdb
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Activities\bin\Debug\netcoreapp2.0\Acced.Art360.Common.dll
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Activities\bin\Debug\netcoreapp2.0\Acced.Art360.Common.pdb
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Activities\obj\Debug\netcoreapp2.0\Acced.Art360.Services.Activities.csproj.CoreCompileInputs.cache
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Activities\obj\Debug\netcoreapp2.0\Acced.Art360.Services.Activities.AssemblyInfoInputs.cache
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Activities\obj\Debug\netcoreapp2.0\Acced.Art360.Services.Activities.AssemblyInfo.cs
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Activities\obj\Debug\netcoreapp2.0\Acced.Art360.Services.Activities.dll
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Activities\obj\Debug\netcoreapp2.0\Acced.Art360.Services.Activities.pdb

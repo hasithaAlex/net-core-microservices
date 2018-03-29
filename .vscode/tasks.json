@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/src/Acced.Art360.Api/Acced.Art360.Api.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Identity\bin\Debug\netcoreapp2.0\Acced.Art360.Services.Identity.deps.json
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Identity\bin\Debug\netcoreapp2.0\Acced.Art360.Services.Identity.runtimeconfig.json
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Identity\bin\Debug\netcoreapp2.0\Acced.Art360.Services.Identity.runtimeconfig.dev.json
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Identity\bin\Debug\netcoreapp2.0\Acced.Art360.Services.Identity.dll
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Identity\bin\Debug\netcoreapp2.0\Acced.Art360.Services.Identity.pdb
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Identity\obj\Debug\netcoreapp2.0\Acced.Art360.Services.Identity.csproj.CoreCompileInputs.cache
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Identity\obj\Debug\netcoreapp2.0\Acced.Art360.Services.Identity.AssemblyInfoInputs.cache
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Identity\obj\Debug\netcoreapp2.0\Acced.Art360.Services.Identity.AssemblyInfo.cs
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Identity\obj\Debug\netcoreapp2.0\Acced.Art360.Services.Identity.dll
+C:\Users\HasithaM\Desktop\GIT_2\Acced.Art360\src\Acced.Art360.Services.Identity\obj\Debug\netcoreapp2.0\Acced.Art360.Services.Identity.pdb

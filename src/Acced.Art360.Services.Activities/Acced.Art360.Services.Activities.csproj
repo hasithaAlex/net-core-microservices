@@ -17,7 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="Acced.Art360.Services.Activities.csproj" />
+    <ProjectReference Include="..\Acced.Art360.Common\Acced.Art360.Common.csproj" />
   </ItemGroup>
+
 
 </Project>

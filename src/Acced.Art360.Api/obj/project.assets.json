@@ -4746,6 +4746,20 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "Acced.Art360.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.All": "2.0.3",
+          "Microsoft.NETCore.App": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Acced.Art360.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Acced.Art360.Common.dll": {}
+        }
       }
     }
   },
@@ -12525,10 +12539,16 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "Acced.Art360.Common/1.0.0": {
+      "type": "project",
+      "path": "../Acced.Art360.Common/Acced.Art360.Common.csproj",
+      "msbuildProject": "../Acced.Art360.Common/Acced.Art360.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "Acced.Art360.Common >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.3",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -12562,7 +12582,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\HasithaM\\Desktop\\GIT_2\\Acced.Art360\\src\\Acced.Art360.Common\\Acced.Art360.Common.csproj": {
+              "projectPath": "C:\\Users\\HasithaM\\Desktop\\GIT_2\\Acced.Art360\\src\\Acced.Art360.Common\\Acced.Art360.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
